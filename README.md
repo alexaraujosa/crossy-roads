@@ -1,11 +1,28 @@
-# KFCRun (CrossyRoads)
+# KFCRun
+## ℹ️ Summary:
 
-O seguinte projeto desenvolvido em Haskell, baseado no jogo CrossyRoads, no âmbito da cadeira de **Laboratórios de Informática I** da Licenciatura em Engenharia Informática da Universidade do Minho, foi realizado por:
+CrossyRoads game developed in Haskell, using Gloss as Graphics Interface.
+
+Project done by two persons for the discipline Software Labs I at the University of Minho, whose final average was 19.5 out of 20 values.
+
+## 👨‍🎓 Team:
 
 - Alex Araújo de Sá (a104257)
 - Rafael Santos Fernandes (a104271)
 
-## Interface Gráfica
+## 🌟 Features:
 
-A interface gráfica do *KFCRun* fora desenvolvida através da biblioteca Gloss, que permite a criação de gráficos 2D, assim como o uso de funções pré-definidas para a animação desses mesmos gráficos. Esta biblioteca fora um requirimento imposto pelos docentes para a concretização do projeto.
+- Smooth Game
+- Player animated
+- Automatic Difficulty System
+- Scoring System 
+- Language System
+- Saves System
+- Texture Optimization (Atlas)
+- Konami Code (NoClip activation)
+- Custom Font 
+- Custom Logs 
+- Atlas Generator
 
+## 📸 Screenshots:
+[![kfcrun.png](https://i.postimg.cc/rz6XtjyD/kfcrun.png)](https://postimg.cc/H8tPqQym)
