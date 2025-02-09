@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@vingle/bmp-js": "^0.2.5",
+    "cac": "^6.7.14",
+    "fast-glob": "^3.2.12",
+    "jimp": "^0.16.2",
+    "replace-color": "^2.3.0",
+    "sharp": "^0.31.2"
+  }
+}

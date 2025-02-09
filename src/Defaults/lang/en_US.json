@@ -1,0 +1,29 @@
+{
+    "version": 2,
+    "lang": "en_US",
+    "locales": {
+        "menu_yes": "Yes",
+        "menu_no": "No",
+        "menu_resume": "Resume",
+        "menu_respawn": "Respawn",
+        "menu_exit": "Exit",
+        "menu_play": "Play",
+        "menu_options": "Options",
+        "menu_options_english": "English",
+        "menu_options_portugues": "Português",
+        "menu_save": "Saves",
+        "menu_save_save": "save",
+        "menu_save_save_verb": "save",
+        "menu_save_load_verb": "load",
+        "menu_save_delete_verb": "delete",
+        "menu_save_delAll_conf": "Are you sure you \nwant to delete all saves?\nThis action is not reversible!",
+        "menu_save_del_conf": "Are you sure you \nwant to delete save %d?\nThis action is not reversible!",
+        "menu_save_createdAt": "Created at",
+        "menu_save_modifiedAt": "Modified at",
+        "menu_save_lastModifiedAt": "Last modified at",
+        "menu_save_highscore": "Highscore",
+        "menu_save_totalCoins": "Total coins",
+        "menu_save_details": "  Save details  ",
+        "menu_save_clear": "Clear"
+    }
+}

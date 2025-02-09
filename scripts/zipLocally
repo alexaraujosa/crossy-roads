@@ -1,0 +1,5 @@
+#!/bin/bash
+
+pushd $2
+zip -r $1 ./
+popd

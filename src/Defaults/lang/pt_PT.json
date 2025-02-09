@@ -1,0 +1,29 @@
+{
+    "version": 2,
+    "lang": "pt_PT",
+    "locales": {
+        "menu_yes": "Sim",
+        "menu_no": "Não",
+        "menu_resume": "Continuar",
+        "menu_respawn": "Renascer",
+        "menu_exit": "Sair",
+        "menu_play": "Jogar",
+        "menu_options": "OpçÕes",
+        "menu_options_english": "English",
+        "menu_options_portugues": "Português",
+        "menu_save": "Saves",
+        "menu_save_save": "save",
+        "menu_save_save_verb": "salvar",
+        "menu_save_load_verb": "carregar",
+        "menu_save_delete_verb": "eliminar",
+        "menu_save_delAll_conf": "Deseja eliminar \ntodos os seus saves?\nEsta ação não é reversível!",
+        "menu_save_del_conf": "Deseja eliminar \no save save %d?\nEsta ação não é reversível!",
+        "menu_save_createdAt": "Criado em",
+        "menu_save_modifiedAt": "Modificado em",
+        "menu_save_lastModifiedAt": "Última modificação em",
+        "menu_save_highscore": "Melhor pontuação",
+        "menu_save_totalCoins": "Moedas totais:",
+        "menu_save_details": "Detalhes do Save",
+        "menu_save_clear": "Limpar"
+    }
+}

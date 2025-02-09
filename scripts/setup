@@ -1,0 +1,10 @@
+#!/bin/bash
+
+############################
+#   GLOBAL SETUP SCRIPT    #
+############################
+
+SCRIPT_DIR=$(dirname $(readlink -f "$0"))
+
+# Setup node libraries
+cd $SCRIPT_DIR/lib/node && /bin/bash $SCRIPT_DIR/lib/node/setup.sh

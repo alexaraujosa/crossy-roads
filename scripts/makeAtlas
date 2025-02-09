@@ -1,0 +1,9 @@
+#!/bin/bash
+
+#####################################################
+#   LAUNCHER SCRIPT FOR makeAtlas LIBRARY SCRIPT    #
+#####################################################
+
+SCRIPT_DIR=$(dirname $(readlink -f "$0"))
+
+$SCRIPT_DIR/lib/node/makeAtlas.js $@
